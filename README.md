@@ -1,3 +1,7 @@
+
+![image](https://github.com/harshit-paneri/full_tweet/assets/82382478/770ef231-09a2-4f22-bf3f-3b246449621d)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
