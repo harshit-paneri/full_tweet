@@ -53,7 +53,6 @@ const LoginModal = () => {
       onClose={loginModal.onClose}
       onSubmit={onSubmit}
       body={bodyContent}
-      footer={footerContent}
     />
   )
 }
